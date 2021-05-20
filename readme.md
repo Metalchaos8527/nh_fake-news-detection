@@ -2,6 +2,16 @@
 대회 url: https://dacon.io/competitions/official/235658/overview/description/   
 **대회 규정상 원 데이터셋은 올리지 않았습니다**   
 
+사용된 패키지
+- mxnet 1.7.0
+- tqdm 4.41.1
+- sentencepiece 0.1.94
+- gluonnlp 0.10.0
+- transformers 3.0.0
+- datasets 1.1.3
+- pytorch 1.7.0+cu101
+- kobert 0.1.2
+- sklearn 0.22.2.post1
 <br>
 
 K-러닝 팀의 custom_bert_clf 개발기를 담은 파일들을 업로드 합니다   
